@@ -1,0 +1,11 @@
+.menuList {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.menuItem {
+    width: 200px; 
+    margin: 10px
+}
